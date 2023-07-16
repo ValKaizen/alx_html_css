@@ -1,0 +1,1 @@
+The goal of this project is to design a webpage using wireframe rom a figma jam
